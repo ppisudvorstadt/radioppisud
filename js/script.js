@@ -294,7 +294,7 @@ audio.onvolumechange = function () {
 }
 
 audio.onerror = function () {
-    var confirmacao = confirm('Error on communicate to server. \nClick OK to try again.');
+    var confirmacao = confirm('Radio sedang tidak mengudara. \nCek jadwal On Air di ppisudvorstadt.github.io');
 
     if (confirmacao) {
         window.location.reload();
