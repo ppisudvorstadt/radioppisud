@@ -261,28 +261,12 @@ input[type=range]::-ms-thumb {
     margin: 5px 0;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-.historic .cover-historic1 {
-=======
 .historic .cover-historic {
->>>>>>> parent of cee21b5 (Update style.css)
-=======
-.historic .cover-historic {
->>>>>>> parent of cee21b5 (Update style.css)
     width: 95px;
     height: 95px;
     margin-right: 15px;
     float: left;
-<<<<<<< HEAD
-<<<<<<< HEAD
-    background: url('../img/keisya.jpeg') no-repeat;
-=======
     background: url('../img/bg-capa.jpg') no-repeat;
->>>>>>> parent of cee21b5 (Update style.css)
-=======
-    background: url('../img/bg-capa.jpg') no-repeat;
->>>>>>> parent of cee21b5 (Update style.css)
     background-size: cover;
     border: 1px solid #383838;
     box-shadow: 1px 2px 5px rgba(0, 0, 0, 0.3);
