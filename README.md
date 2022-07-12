@@ -3,8 +3,6 @@
 
 Thanks to [@andreas5232](https://github.com/andreas5232) for add Icecast support.
 
-![Responsive Web Player for SHOUTCast and Icecast](https://i.imgur.com/x2NP8K8.png)
-
 ## Required:
 - PHP >= 5.3
 - cURL
