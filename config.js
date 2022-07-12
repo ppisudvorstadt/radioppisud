@@ -22,12 +22,12 @@ var settings = {
     'api_key': 'fa953f6058ac798f27595984a5bcec16',
 
     // Set to true to get the last songs played
-    'historic': true,
+    'historic': false,
 
     // Only for SHOUTCast!
     // Set to true to show the next song to be played. 
     // Make sure your streaming show this information!
-    'next_song': true,
+    'next_song': false,
 
     // Path to default cover art when none are found
     'default_cover_art': 'img/bg-capa.jpg',
